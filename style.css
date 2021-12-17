@@ -1,0 +1,22 @@
+body {
+    padding: 4.5rem; 
+    margin: 10rem 10rem 10rem 25rem;
+    background: url('./tesla-logo.jpg');
+    background-size: 1550px;
+    background-repeat: no-repeat;
+}
+.card {
+    width: 400px;
+    position: absolute;
+    height: auto;
+    padding: 2rem;
+    border-radius: 1rem;
+    background: rgba(255, 255, 255, .3);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+}
+.card-title {
+    margin-top: 0;
+    margin-bottom: .5rem;
+    font-size: 1.2rem;
+}
